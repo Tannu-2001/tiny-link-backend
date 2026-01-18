@@ -35,3 +35,11 @@ BASE_URL=http://localhost:5000
 - User authentication (JWT)
 - Advanced analytics
 - Rate limiting
+
+## Screenshots
+### Neon PostgreSQL
+![Neon PostgreSQL](./screenshots/tinyneon.png)
+### GET Links API
+![GET Links API](./screenshots/tinylinks.png)
+### Folder Structure
+![Folder Structure](./screenshots/tinyfolder.png)
